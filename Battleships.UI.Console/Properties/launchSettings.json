@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Battleships.UI.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "cheat"
+    }
+  }
+}
